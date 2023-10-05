@@ -1,5 +1,5 @@
-# [National Study of Mental Health and Wellbeing]
-### [📋&nbsp;Add&nbsp;graphic&nbsp;to&nbsp;your&nbsp;story]([report_share_url]) • [📊&nbsp;Get&nbsp;the&nbsp;data](data) • [💻&nbsp;Reproduce&nbsp;the&nbsp;analysis](#-reproduce-the-analysis)
+# National Study of Mental Health and Wellbeing
+### [📋Graphic]([report_share_url]) • [📊&nbsp;Get&nbsp;the&nbsp;data](data) • [💻&nbsp;Reproduce&nbsp;the&nbsp;analysis](#-reproduce-the-analysis)
 
 [report_summary]
 
@@ -15,7 +15,7 @@ These charts, as well as the analyses that underpin them, are available under a 
 
 Data in these charts comes from:
 
-* [report_datasources_links]
+* [National Study of Mental Health and Wellbeing](https://www.abs.gov.au/statistics/health/mental-health/national-study-mental-health-and-wellbeing)
 
 **Please attribute 360info and the data sources when you use and remix these visualisations.**
 
@@ -59,4 +59,4 @@ quarto render
 
 ## ❓ Help
 
-If you find any problems with our analysis or charts, please feel free to [create an issue](https://github.com/360-info/[report repo name]/issues/new)!
+If you find any problems with our analysis or charts, please feel free to [create an issue](https://github.com/360-info/abs-national-study-mental-health-wellbeing/issues/new)!
